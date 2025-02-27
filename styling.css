@@ -7,7 +7,7 @@
   }
   
   body {
-    background-image: linear-gradient(180deg, white, purple, black, purple, white);
+    background-image: linear-gradient(180deg, black, purple, black, purple, black);
     border-radius: 50%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -32,6 +32,7 @@
   }
   
   .details {
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -39,6 +40,7 @@
   }
   
   .now-playing {
+    color: white;
     font-size: 25px;
   }
   
@@ -55,6 +57,7 @@
   }
   
   .track-name {
+    color: white;
     text-align: center;
     font-size: 30px;
     font-weight: 400;
@@ -64,6 +67,7 @@
   }
   
   .track-artist {
+    color: white;
     text-align: center;
     font-size: 17px;
     text-transform: capitalize;
@@ -72,7 +76,8 @@
     color: rgba(0, 0, 0, 0.715);
   }
   
-  .current-time {	
+  .current-time {
+    color: white;	
     text-align: center;
     font-family: cursive;
     font-size: 13px;
@@ -100,6 +105,7 @@
   }
   
   .buttons {	
+    color: white;
     width: 90%;
     margin: auto;
     display: flex;
@@ -109,6 +115,7 @@
   }
   
   .buttons i {
+    color: white;
     opacity: 0.9;
     padding: 13px;
     font-size: 30px;
@@ -117,7 +124,7 @@
   }
   
   .buttons i:hover {
-    color: white;
+    color: purple;
   }
   
   .buttons .playpause-track i {	
@@ -168,13 +175,13 @@
   }
   
   a {
-      color: black;
-    text-decoration: underline lime double auto;
+      color: white;
+      text-decoration: underline purple double auto;
   }
   
   a:hover {
-      background-color: black;
-      color: lime;
+      background-color: white;
+      color: purple;
   }
   
   li {
