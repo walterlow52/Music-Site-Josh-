@@ -40,7 +40,7 @@
         "music" : ""
     },
     {
-        "name" : "IF I HAD YOU",
+        "name" : "IF I HAD YOU...",
         "artist" : "Chris Grey",
         "music" : ""
     },
@@ -200,23 +200,68 @@
         "music" : ""
     },
     {
-        "name" : "",
-        "artist" : "",
+        "name" : "AMY",
+        "artist" : "Chase Atlantic",
         "music" : ""
     },
     {
-        "name" : "",
-        "artist" : "",
+        "name" : "Y.S.K.W.",
+        "artist" : "Catch Your Breath",
         "music" : ""
     },
     {
-        "name" : "",
-        "artist" : "",
+        "name" : "7 Stops Until Sunrise",
+        "artist" : "Vice Monroe",
         "music" : ""
     },
     {
-        "name" : "",
-        "artist" : "",
+        "name" : "When I Dream Of You",
+        "artist" : "Reed Wonder ft. Aurora Olivas",
+        "music" : ""
+    },
+    {
+        "name" : "Hourglass",
+        "artist" : "ENMY",
+        "music" : ""
+    },
+    {
+        "name" : "Burn",
+        "artist" : "ENMY",
+        "music" : ""
+    },
+    {
+        "name" : "TILL LOVE TURNS TO TRAGEDY",
+        "artist" : "Dutch Melrose",
+        "music" : ""
+    },
+    {
+        "name" : "MATCH MADE IN HELL",
+        "artist" : "Dutch Melrose ft. benny mayne",
+        "music" : ""
+    },
+    {
+        "name" : "SPINE",
+        "artist" : "WesGhost",
+        "music" : ""
+    },
+    {
+        "name" : "The Apparition",
+        "artist" : "Sleep Token",
+        "music" : ""
+    },
+    {
+        "name" : "Even If It Kills Me",
+        "artist" : "Papa Roach",
+        "music" : ""
+    },
+    {
+        "name" : "Eye Of The Hurricane",
+        "artist" : "Fight The Fade",
+        "music" : ""
+    },
+    {
+        "name" : "new way out",
+        "artist" : "Poppy",
         "music" : ""
     }
 ]
