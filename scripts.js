@@ -30,7 +30,7 @@ function loadTrack(data, index) {
   clearInterval(updateTime);
   reset();
 
-        track_art.style.backgroundImage = "url(" + data[index].img + ")";
+        track_art.style.backgroundImage = "Music-Site-Josh-\JoshBG.png";
         track_name.textContent = data[index].name;
         track_artist.textContent = data[index].artist;    
         now_playing.textContent = "JOKER's Playlist " + (index + 1) + " / " + data.length; 
